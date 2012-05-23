@@ -5,7 +5,7 @@ reporting an issue to help us understand your environment, build settings
 and aid in debugging. Please attach this log to any issue that you report.
 ================================================================================
 
-Starting build at 05/23/12 10:45
+Starting build at 05/23/12 14:10
 
 Build details:
 
@@ -23,7 +23,7 @@ Script arguments:
    br.com.editoraphoenix
    Whiskers
    universal
-   iphone
+   ipad
    
 
 Building from: /Users/kaiquesilva/Library/Application Support/Titanium/mobilesdk/osx/2.0.1.GA2/iphone

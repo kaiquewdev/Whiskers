@@ -1,1 +1,0 @@
-/Users/kaiquesilva/Documents/Titanium Studio Workspace/Whiskers/Resources/views/main.view.js
