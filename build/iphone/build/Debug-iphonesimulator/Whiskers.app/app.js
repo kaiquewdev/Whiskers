@@ -1,0 +1,1 @@
+/Users/kaiquesilva/Documents/Titanium Studio Workspace/Whiskers/Resources/app.js
